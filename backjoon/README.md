@@ -1,3 +1,3 @@
 # Practice Python
-파이썬 연습
+파이썬으로 Backjoon 문제 
 
